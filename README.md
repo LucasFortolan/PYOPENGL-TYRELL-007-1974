@@ -36,9 +36,6 @@ Usada para trigonometria e cálculos matemáticos auxiliares nas animações e r
 
 O desenvolvimento iniciou-se analisando a estrutura do Tyrrell 007 original e traçando formas geométricas sobre sua imagem para identificar as primitivas necessárias. Essa decomposição visual permitiu planejar a modelagem 3D utilizando formas simples, como retângulos (formados pela união de dois triângulos).
 
-> **Figura 2 — Identificação das figuras geométricas sobre a imagem do carro**  
-> *(inserir imagem aqui)*
-
 Após essa etapa, cada parte do carro foi convertida para sua respectiva primitiva geométrica em PyOpenGL. A pista infinita foi criada através de blocos repetitivos que se deslocam continuamente, gerando a sensação de movimento constante.
 
 ---
